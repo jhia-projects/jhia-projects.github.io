@@ -5,7 +5,7 @@ title: Joshua Hia
 
 # Joshua Hia — Data Science Portfolio
 
-*One-line intro about yourself — edit this in index.md.*
+*Data scientist · Causal inference · Economics · Tech*
 
 {% assign sorted_writeups = site.writeups | sort: "order" %}
 {% for writeup in sorted_writeups %}
