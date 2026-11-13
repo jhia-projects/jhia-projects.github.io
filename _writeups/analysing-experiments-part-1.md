@@ -3,7 +3,7 @@ title: "Analysing Experiments: Beyond the Difference-in-Means Test (Part 1)"
 summary: "Three checks to run so that an experiment's results are valid for inference, illustrated on 14 million users from Criteo's advertising trial."
 repo: https://github.com/jhia-projects/experimentation-platform
 tags: [experimentation, causal-inference, statistics]
-order: 5
+order: 2
 ---
 Analysing experiments seems easy. Split users into treatment and control, calculate the average outcome metric for the two groups, and conduct a difference-in-means test for significance. If the p-value is < 5%, the treatment worked. Right?
 
